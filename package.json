@@ -1,0 +1,16 @@
+{
+  "name": "css-and-js-in-html",
+  "version": "2019.6.19",
+  "private": true,
+  "author": {
+    "name": "Paolo Roth",
+    "email": "iamoctod@gmail.com"
+  },
+  "scripts": { },
+  "description": "",
+  "dependencies": {
+    "@angular/core": "*",
+    "react": "*",
+    "vue": "*"
+  }
+}
